@@ -1,0 +1,35 @@
+#watch{
+  width: 300px;  
+  height: 550px;
+  border-radius: 20px;
+}
+#test{
+    font-size: 20px;
+    
+}
+#output{
+    background-color: white;
+    border-radius: 20px;
+    font-size: 30px;
+     color: purple;
+     
+     width: 500px;
+     
+}
+#same{
+    color: purple;
+}
+h4{
+    font-size: 30px;
+}
+#ouput{
+    margin: 300px;
+    float: top;
+  
+  margin-top: 100px;
+    
+}
+span{
+  float: right;
+  margin-right: 700px;
+}
